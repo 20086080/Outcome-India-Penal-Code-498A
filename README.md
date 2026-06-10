@@ -31,6 +31,28 @@ The objective is not to determine guilt, innocence, or the prevalence of false c
 
 National Crime Records Bureau (NCRB)
 
+## Challenges & Limitations
+
+Data Availability and Consistency
+
+NCRB publications span multiple years and reporting formats. During data preparation, several structural differences between annual reports required standardisation before meaningful trend analysis could be performed.
+
+Longitudinal Analysis
+
+The project analyses years of data. Maintaining consistency across years required careful validation of definitions, calculations, and reporting categories to ensure comparability over time.
+
+Measuring Case Outcomes
+
+NCRB data reports judicial outcomes such as convictions, acquittals, discharges, and pending cases. However, the dataset does not directly identify whether a complaint was genuine, false, malicious, or withdrawn. As a result, the dashboard focuses on recorded judicial outcomes rather than attempting to infer case validity.
+
+Understanding Case Duration
+
+The NCRB dataset provides annual snapshots rather than individual case histories. This limits the ability to measure exact trial durations for specific cases and instead requires the use of aggregate indicators such as pending investigations and pending trials.
+
+Dashboard Design
+
+Presenting complex judicial statistics in an accessible format required balancing analytical depth with usability. Particular attention was given to visual clarity, trend identification, and the use of dynamic narrative insights to help users interpret the data.
+
 ## Business Questions Answered
 
 - How have crime trends changed over time?

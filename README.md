@@ -69,9 +69,47 @@ Consequently, the findings presented in this dashboard should be interpreted as 
 
 ## Business Questions Answered
 
-- How have crime trends changed over time?
-- What are the conviction rates?
-- How large is the trial backlog?
+### Core Business Questions
+
+How have crime trends changed over time?
+What are the conviction rates?
+How large is the trial backlog?
+What proportion of cases remain pending?
+How effective is the criminal justice system at disposing of IPC 498-A cases?
+Are case disposal rates improving or declining over time?
+How do new cases compare with resolved cases each year?
+Is the backlog growing faster than cases are being resolved?
+
+### Judicial Outcome Questions
+
+What are the most common outcomes of IPC 498-A cases?
+What proportion of cases result in conviction versus acquittal?
+How frequently are cases withdrawn, compromised, or discharged?
+How many cases are disposed of without proceeding to trial?
+Has the conviction rate changed over time?
+Have acquittal rates increased or decreased over time?
+
+### Trial Efficiency Questions
+
+How long do IPC 498-A cases remain in the judicial system?
+What percentage of cases exceed one year in duration?
+Are trial completion rates improving over time?
+Is the proportion of cases disposed without trial increasing or decreasing?
+
+### Trend and Performance Questions
+
+What year-on-year changes are occurring in case registrations?
+What year-on-year changes are occurring in trial completions?
+What year-on-year changes are occurring in case disposals?
+Are improvements in case disposal keeping pace with incoming caseloads?
+Which years demonstrate the strongest or weakest judicial performance?
+
+### Policy and Governance Questions
+
+Does the data indicate a persistent backlog problem within IPC 498-A cases?
+Are judicial outcomes dominated by convictions, acquittals, or non-trial resolutions?
+Do observed trends suggest increasing efficiency or continuing pressure on the justice system?
+What evidence exists to support policy interventions aimed at reducing case backlogs and trial duration?
 
 ## Key Insights
 

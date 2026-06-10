@@ -27,6 +27,50 @@ The objective is not to determine guilt, innocence, or the prevalence of false c
 - Excel
 - DAX
 
+## Business Questions Answered
+
+### Core Business Questions
+
+- How have crime trends changed over time?
+- What are the conviction rates?
+- How large is the trial backlog?
+- What proportion of cases remain pending?
+- How effective is the criminal justice system at disposing of IPC 498-A cases?
+- Are case disposal rates improving or declining over time?
+- How do new cases compare with resolved cases each year?
+- Is the backlog growing faster than cases are being resolved?
+
+### Judicial Outcome Questions
+
+- What are the most common outcomes of IPC 498-A cases?
+- What proportion of cases result in conviction versus acquittal?
+- How frequently are cases withdrawn, compromised, or discharged?
+- How many cases are disposed of without proceeding to trial?
+- Has the conviction rate changed over time?
+= Have acquittal rates increased or decreased over time?
+
+### Trial Efficiency Questions
+
+- How long do IPC 498-A cases remain in the judicial system?
+- What percentage of cases exceed one year in duration?
+- Are trial completion rates improving over time?
+- Is the proportion of cases disposed without trial increasing or decreasing?
+
+### Trend and Performance Questions
+
+- What year-on-year changes are occurring in case registrations?
+- What year-on-year changes are occurring in trial completions?
+- What year-on-year changes are occurring in case disposals?
+- Are improvements in case disposal keeping pace with incoming caseloads?
+- Which years demonstrate the strongest or weakest judicial performance?
+
+### Policy and Governance Questions
+
+- Does the data indicate a persistent backlog problem within IPC 498-A cases?
+- Are judicial outcomes dominated by convictions, acquittals, or non-trial resolutions?
+- Do observed trends suggest increasing efficiency or continuing pressure on the justice system?
+- What evidence exists to support policy interventions aimed at reducing case backlogs and trial duration?
+
 ## Data Source
 
 National Crime Records Bureau (NCRB)
@@ -66,50 +110,6 @@ The NCRB dataset does not provide IPC Section 498A judicial outcomes at a suffic
 As a result, this analysis is limited to national-level trends and cannot determine whether judicial outcomes differ across states, regions, or levels of urbanisation. Such differences may exist due to variations in demographics, socio-economic conditions, legal practices, reporting behaviour, education levels, or cultural factors, but these relationships cannot be evaluated using the available NCRB data.
 
 Consequently, the findings presented in this dashboard should be interpreted as national trends rather than evidence of patterns within specific geographic or cultural groups.
-
-## Business Questions Answered
-
-### Core Business Questions
-
-How have crime trends changed over time?
-What are the conviction rates?
-How large is the trial backlog?
-What proportion of cases remain pending?
-How effective is the criminal justice system at disposing of IPC 498-A cases?
-Are case disposal rates improving or declining over time?
-How do new cases compare with resolved cases each year?
-Is the backlog growing faster than cases are being resolved?
-
-### Judicial Outcome Questions
-
-What are the most common outcomes of IPC 498-A cases?
-What proportion of cases result in conviction versus acquittal?
-How frequently are cases withdrawn, compromised, or discharged?
-How many cases are disposed of without proceeding to trial?
-Has the conviction rate changed over time?
-Have acquittal rates increased or decreased over time?
-
-### Trial Efficiency Questions
-
-How long do IPC 498-A cases remain in the judicial system?
-What percentage of cases exceed one year in duration?
-Are trial completion rates improving over time?
-Is the proportion of cases disposed without trial increasing or decreasing?
-
-### Trend and Performance Questions
-
-What year-on-year changes are occurring in case registrations?
-What year-on-year changes are occurring in trial completions?
-What year-on-year changes are occurring in case disposals?
-Are improvements in case disposal keeping pace with incoming caseloads?
-Which years demonstrate the strongest or weakest judicial performance?
-
-### Policy and Governance Questions
-
-Does the data indicate a persistent backlog problem within IPC 498-A cases?
-Are judicial outcomes dominated by convictions, acquittals, or non-trial resolutions?
-Do observed trends suggest increasing efficiency or continuing pressure on the justice system?
-What evidence exists to support policy interventions aimed at reducing case backlogs and trial duration?
 
 ## Key Insights
 

@@ -59,6 +59,14 @@ NCRB data reports judicial outcomes such as convictions, acquittals, discharges,
 
 The NCRB dataset also provides annual snapshots rather than individual case histories. This limits the ability to measure exact trial durations for specific cases and instead requires the use of aggregate indicators such as pending investigations and pending trials when analysing case progression through the justice system.
 
+### Geographic Granularity
+
+The NCRB dataset does not provide IPC Section 498A judicial outcomes at a sufficiently granular geographic level. While state-level case registration statistics are available, detailed outcome measures such as convictions, acquittals, discharges, and pending trials are not consistently reported by state, district, or metropolitan versus non-metropolitan regions.
+
+As a result, this analysis is limited to national-level trends and cannot determine whether judicial outcomes differ across states, regions, or levels of urbanisation. Such differences may exist due to variations in demographics, socio-economic conditions, legal practices, reporting behaviour, education levels, or cultural factors, but these relationships cannot be evaluated using the available NCRB data.
+
+Consequently, the findings presented in this dashboard should be interpreted as national trends rather than evidence of patterns within specific geographic or cultural groups.
+
 ## Business Questions Answered
 
 - How have crime trends changed over time?
